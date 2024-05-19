@@ -144,10 +144,10 @@ header{
 
 .content-solution_right-img_above {
     position: absolute;
-    padding: 251px 98px 171px 96px;
+    padding: 241px 69px 116px 83px;
     background-color: rgb(214, 153, 66);
-    top: 302px;
-    left: 28px;
+    top: 231px;
+    left: -28px;
     border-top-left-radius: 30px;
     border-top-right-radius: 30px;
     opacity: 0.75;
@@ -158,7 +158,7 @@ header{
     position: absolute;
     padding: 209px 69px 6px 83px;
     background-color: rgb(214, 153, 66);
-    top: 446px;
+    top: 335px;
     right: 181px;
     border-top-left-radius: 30px;
     border-top-right-radius: 30px;
