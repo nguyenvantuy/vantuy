@@ -144,7 +144,7 @@ header{
 
 .content-solution_right-img_above {
     position: absolute;
-    padding: 241px 80px 116px 83px;
+    padding: 200px 80px 116px 83px;
     background-color: rgb(214, 153, 66);
     top: 231px;
     left: -28px;
@@ -156,7 +156,7 @@ header{
 
 .content-solution_right-img_below {
     position: absolute;
-    padding: 209px 69px 6px 83px;
+    padding: 190px 69px 6px 83px;
     background-color: rgb(214, 153, 66);
     top: 335px;
     right: 181px;
@@ -2219,13 +2219,13 @@ a.active, a:hover{
     }
 
     .content-solution_right-img_above {
-        padding: 91px 33px 97px 59px;
+        padding: 65px 33px 97px 59px;
         top: 38%;
         left: 70px;
     }
 
     .content-solution_right-img_below {
-        padding: 31px 33px 97px 59px;
+        padding: 12px 33px 97px 59px;
         top: 57%;
         right: 80px;
     }
