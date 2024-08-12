@@ -144,7 +144,7 @@ header{
 
 .content-solution_right-img_above {
     position: absolute;
-    padding: 200px 80px 116px 83px;
+    padding: 201px 80px 116px 83px;
     background-color: rgb(214, 153, 66);
     top: 231px;
     left: -28px;
@@ -3353,6 +3353,7 @@ a.active, a:hover{
 
     nav ul li{
         display: block;
+        transform: translateX(-6%);
     }
 
     nav ul li a{
@@ -3367,13 +3368,24 @@ a.active, a:hover{
 
     #check:checked ~ ul.nav{
         left: 0;
+        top: -2%;
     }
 
     .checkbtn i{
         color: black;
     }
 
-
+    .sidebar .closebtn {
+        position: absolute;
+        top: 0;
+        right: 25px;
+        font-size: 36px;
+        margin-left: 50px;
+    }
 }
 
+
+.sidebar .closebtn {
+    display: none;
+}
 
